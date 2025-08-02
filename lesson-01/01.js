@@ -8,4 +8,3 @@ while (counter <= 20){
     sum += counter;
     counter++;
 }
-console.log(sum);
